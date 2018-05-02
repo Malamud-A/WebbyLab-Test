@@ -4,7 +4,7 @@
 3. npm run webpack-dev-server
 4. open http://localhost:8090
 
-###Project architercture:
+### Project architercture:
 
 I used Flux as a state manager and react as a representational framework.
 The data is stored in a MongoDB collection and can be accessed via the API.
